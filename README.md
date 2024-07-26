@@ -35,18 +35,13 @@ suas análises mostraram, ele gostaria de uma opinião profissional de um
 analista de dados. Por esse motivo, você foi contratado para responder a
 seguinte sequência de perguntas:
 
-# Como está a saúde da rede de cafeterias, no geral? Elas estão indo bem ou
-# mal?
+# Como está a saúde da rede de cafeterias, no geral? Elas estão indo bem ou mal?
 
-# Existe algum motivo do porque a rede está indo bem ou mal? Você poderia
-# me explicar o que está causando uma boa ou má saúde do negócio?
+# Existe algum motivo do porque a rede está indo bem ou mal? Você poderia  me explicar o que está causando uma boa ou má saúde do negócio?
 
-# Você poderia prever o faturamento da rede de cafeteria nos próximos 30
-# dias? ( Mês de Julho de 2023 )
+# Você poderia prever o faturamento da rede de cafeteria nos próximos 30dias? ( Mês de Julho de 2023 )
 
-# Quais são as suas recomendações para alavancar ainda mais o negócio,
-# caso ele esteja indo bem ou reverter uma situação ruim, caso ele esteja
-# indo mal?
+# Quais são as suas recomendações para alavancar ainda mais o negócio, caso ele esteja indo bem ou reverter uma situação ruim, caso ele esteja indo mal?
 
 
 Para cada pergunta de négocio usei uma etapa da Análise de Dados, passando da Descritiva para Diagnostisca, para Preditiva e por fim Prescritiva
